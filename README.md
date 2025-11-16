@@ -21,7 +21,6 @@ This project demonstrates monitoring of **successful and failed RDP logins** on 
   - `4625` → Failed logins  
 - Real-time dashboards with single-value counters.  
 - Geo-map visualization of failed login attempts using IP geolocation.  
-- Supports simulated RDP attack data for testing dashboard behavior.  
 
 ---
 
